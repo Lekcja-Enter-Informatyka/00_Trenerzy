@@ -15,4 +15,5 @@ Repozytorium materiałów ogólnych - przede wszystkim dla trenerów
 ### Kontakt do TR
 
 Jesteś trenerem lokalnym? Zapraszamy do Slacka - wejdź na kanał Pomocy Pythona, i napisz do Adama lub Grześka.
+https://abix-edu-python.slack.com/archives/CETN8BYP6
 
